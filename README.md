@@ -1,4 +1,4 @@
-<h1 align="center"> Hello! My name is Pavel</h1>
+<h1 align="center"> Hello! My name is Pavel 👋</h1>
 
 ### 
 
@@ -6,6 +6,10 @@
   <p>
 I am a passionate Data Science and Data Analytics enthusiast with a love for parsing websites to uncover insights and trends.
   </p>
-  Mail: <a href="mailto:pavelpolyanskiyhse@gmail.com">pavelpolyanskiyhse@gmail.com</a>
+  
+
+   👨‍💻 Investigation Analyst at [Inca Digital](https://inca.digital/). <br>
+  <br>
+  ✉️ <a href="mailto:pavelpolyanskiyhse@gmail.com">pavelpolyanskiyhse@gmail.com</a>
 </h3>
 
